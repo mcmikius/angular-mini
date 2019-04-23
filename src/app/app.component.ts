@@ -10,5 +10,5 @@ import { Component } from '@angular/core';
 >>>>>>> initial commit
 })
 export class AppComponent {
-  title = 'angular-mini';
+  title = 'World';
 }
