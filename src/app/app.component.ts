@@ -10,5 +10,12 @@ import { Component } from '@angular/core';
 >>>>>>> initial commit
 })
 export class AppComponent {
-  title = 'World';
+  users = [
+    {name: 'WFM 1'},
+    {name: 'WFM 2'},
+    {name: 'WFM 3'},
+    {name: 'WFM 4'},
+    {name: 'WFM 5'},
+    {name: 'WFM 6'}
+  ];
 }
